@@ -1,1 +1,1 @@
-# C-test-repo
+# test-repo
