@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/muge/.dotnet/store/|arch|/|tfm|",
+      "/home/muge/.nuget/packages"
+    ]
+  }
+}
